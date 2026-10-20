@@ -315,6 +315,28 @@ The generated prompt should communicate:
 
 *The actual output is generated dynamically by Gemini and may vary between requests.*
 
+## 📸 Screenshots
+
+### Main Dashboard
+
+![Prompt Optimiser Agent Dashboard](screenshots/dashboard.png)
+
+### Test Case 1: Machine Learning
+
+**Original Prompt:** Explain machine learning.
+
+![Machine Learning Input](screenshots/Sample-1-input.png)
+
+![Machine Learning Results](screenshots/Sample-1-results.png)
+
+### Test Case 2: Study Tips
+
+**Original Prompt:** Give me tips for studying effectively.
+
+![Study Tips Input](screenshots/Sample-2-input.png)
+
+![Study Tips Results](screenshots/Sample-2-results.png)
+
 ## 🧩 Implementation Highlights
 
 ### 1. Secure Configuration
